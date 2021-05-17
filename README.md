@@ -1,4 +1,4 @@
-# Team 3
+# CS 532 Spring 21: Team 3
 
 * MapReduce paper: https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf  
 
