@@ -1,6 +1,9 @@
-# CS 532 Spring 21: Team 3
+# MapReduce Framework
+
+This library recreates the working of the MapReduce processing framework, designed for multiple processes running on a single server.
 
 * MapReduce paper: https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf  
+* Project Description: https://docs.google.com/document/d/1UkbhEz8FCfKOIBlBW26WUGD78yTh7I_qqGOerHABjd0/edit?usp=sharing
 
 ## Instructions
 The project uses `conda` for package, environment, and dependency management via the `environment.yml` file, which tracks the project dependencies, including the python version against which our system is stable. Please make sure you have [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed before proceeding. 
